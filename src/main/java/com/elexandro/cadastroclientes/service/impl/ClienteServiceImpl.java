@@ -20,6 +20,11 @@ public class ClienteServiceImpl implements ClienteService {
     }
 
     @Override
+    public void atualizar(Long id, Cliente cliente) {
+        
+    }
+
+    @Override
     public void deletar(Long id) {
 
     }
